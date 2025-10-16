@@ -1,3 +1,19 @@
+# Tastycart - Food Delivery App
+
+Experience seamless food delivery with our cutting-edge application designed to bring your favorite meals right to your doorstep. Our app leverages advanced technology to ensure a smooth and efficient ordering process.
+
+## Features
+
+- **Easy-to-use interface** for quick navigation
+- **Wide selection of restaurants and cuisines** to choose from
+- **Smooth scrolling and navigation** throughout the app
+- **Cart functionality**: Add/remove items and place an order with ease
+- **Category filter**: Browse restaurants and cuisines by categories
+
+## Tech Stack
+
+- **Frontend**: React.js, CSS3
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
